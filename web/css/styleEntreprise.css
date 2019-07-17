@@ -1,0 +1,85 @@
+.espace {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	background: #1a1d1e url(../images/templatemo_body_top_bg.jpg) repeat-x;
+}
+
+.header_01 {
+	padding: 0 0 15px 0;
+	margin: 0 0 15px 0;
+	font-size: 18px;
+	font-weight: bold;
+	color: #0279ff;
+	background: url(../images/templatemo_horizontal_divider.jpg) bottom repeat-x;
+}
+
+.header_02 {
+	padding: 8px 0 8px 0;
+	margin: 15px 0 0 0;
+	font-size: 18px;
+	font-weight: bold;
+	color: #0279ff;
+	background: url(../images/templatemo_horizontal_divider.jpg) top repeat-x;
+}
+
+.header_03 {
+	padding: 8px 0 8px 0;
+	font-size: 18px;
+	font-weight: bold;
+	color: #0279ff;
+}
+
+#slideshow{
+	width: 1100px;
+	height: 320px;
+	margin: 0 auto;
+}
+
+#footer {
+	clear: both;
+	width: 100%;
+	margin: 0 auto;
+	background: url(../images/templatemo_footer_bg.jpg) repeat-x;	
+}
+
+#text_footer {
+	clear: both;
+	width: 840px;
+	height: 55px;
+	padding: 30px 10px 0 10px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.dateActualite{
+	text-align: right;
+}
+
+.voirPlus{
+	text-align: right;
+	font-weight: bold;
+	color: #0279ff;
+}
+
+#reserver{
+	text-align: right;
+	font-weight: bold;
+	font-style: italic;
+	color: #FFF;
+}
+
+#obligatoire{
+	color: red;
+}
+
+#petit{
+	height: 20px;
+}
+
+#erreurNumEntreprise, #erreurDesignEntreprise, #erreurLocalEntreprise{
+    display: none;
+}
